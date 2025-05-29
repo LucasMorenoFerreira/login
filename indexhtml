@@ -54,6 +54,8 @@ text-decoration: none;
 <br> <input type="password"placeholder="Email">
 <br><input type="text"placeholder="Senha">
 <br> <button>Entrar</button>
+<a href="Equeci-senha.html"> Entrar</a>
+<a href="Cadastrar-se.html"> Entrar</a>
 </div>
 </body>
 </html>
